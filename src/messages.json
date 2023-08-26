@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "¿Qué necesito?"
+  },
+  {
+    "role": "assistant",
+    "content": "Certificado Médico original (otorgado por el Centro de Salud autorizado por el SEGIP-SEGELIC)\nCertificado original de Aprobación de Examen de Habilidades de Conducción (otorgado por una escuela de conducción autorizada por el SEGIP-SEGELIC)\nCertificado de Antecedentes (FELCC-FELCN-TRANSITO)\nEdad mínima para Categorías “A” y “T” 21 años cumplidos; Categorías “P” y “M” 18 años cumplidos\nBoleta de depósito en Entidades Financieras autorizadas por el SEGIP (Categorías “M” y“T” Bs.- 80; Categorías “P” y “A” Bs.- 225) No hay número de Cuenta toda vez que es un servicio, indicar al cajero del banco el tipo de tramite que se va a realizar."
+  },
+  {
+    "role": "user",
+    "content": "¿Cómo y dónde hago el trámite?"
+  },
+  {
+    "role": "assistant",
+    "content": "El ciudadano debe dirigirse a un Centro de Salud que cuente con el certificado de autorización emitido por el SEGIP-SEGELIC , en todo el territorio nacional, para obtener el CERTIFICADO MÉDICO\nEl ciudadano debe dirigirse a una de las Escuelas de Conducción que cuente con el certificado de autorización emitido por el SEGIP-SEGELIC, en todo el territorio nacional, para obtener el CERTIFICADO DE APROBACIÓN DE EXAMEN DE CONDUCCIÓN\nEl ciudadano debe dirigirse a las de dependencias de la Policía Boliviana-TRANSITO para obtener el CERTIFICADO DE ANTECEDENTES\nEl ciudadano debe dirigirse a una Entidad Financiera autorizada por el SEGIP, para realizar el depósito Bancario según la Categoría, no hay número de Cuenta, indicar al cajero del banco que es para Licencia de Conducir\nEl ciudadano debe apersonarse a las Oficinas Operativas de Licencias para Conducir SEGELIC-SEGIP de su ciudad y presentar los requisitos documentarios al Área de Descarte (revisión de carpeta)\nEl ciudadano recibirá un Ticket una vez revisado el cumplimiento de sus requisitos y pasara al Área de Espera para ser atendido\nEl Técnico Operador registrará los datos de la o el usuario, posteriormente procederá con la toma de la fotografía y la toma de huella digital.\nEl ciudadano procede a firmar la Ficha Kardex.\nEl ciudadano se dirige al Área de Impresión y espera al llamado de su nombre para recoger su Licencia para Conducir\nRecoge la Licencia para Conducir y procede a firmar un Formulario como constancia de que la Licencia fue recogida"
+  },
+  {
+    "role": "user",
+    "content": "Direcciones donde se realiza este trámite"
+  },
+  {
+    "role": "assistant",
+    "content": "Oruro Departamento:OruroDirección:ZONA SAN CRISTOBAL CALLE FINAL SAGARNAGA\nTeléfono:800 101 102\nHorario de atención:\n   Hora Inicio:07:00 \n   Hora Fin:16:00\nVer > Potosí Departamento:PotosíDirección:AV. INTEGRACION BARRIO GUADALQUIVIR, EDIFICIO MEGACENTER\nTeléfono:800 101 102\nHorario de atención:\n   Hora Inicio:09:00 \n   Hora Fin:17:00\nVer > Cochabamba Departamento:CochabambaDirección:ZONA SOPOCACHI CALLE MUÑOZ CORNEJO ESQ. CALLE VINCENTI # 2808\nTeléfono:800 101 102\nHorario de atención:\n   Hora Inicio:07:00 \n   Hora Fin:16:00\nVer > Chuquisaca Departamento:ChuquisacaDirección:CALLE ORURO, ENTRE CALLES OVIDIO CESPEDES Y AZURDUY Nro. 400\nTeléfono:800 101 102\nHorario de atención:\n   Hora Inicio:07:00 \n   Hora Fin:16:00\nVer > Tarija Departamento:TarijaDirección:ZONA CENTRAL CALLE LA PAZ ESQUINA AVENIDA SANTA CRUZ NRO 299\nTeléfono:800 101 102\nHorario de atención:\n   Hora Inicio:07:00 \n   Hora Fin:16:00\nVer > Santa Cruz Departamento:Santa CruzDirección:VENTURA MALL 4TO ANILLO Y AV. SAN MARTIN\nTeléfono:800 101 102\nHorario de atención:\n   Hora Inicio:08:00 \n   Hora Fin:17:00\nVer > Beni Departamento:BeniDirección:AV. 20 DE OCTUBRE, EDIFICIO MOLLINEDO ZONA SAN PEDRO\nTeléfono:800 101 102\nHorario de atención:\n   Hora Inicio:07:00 \n   Hora Fin:16:00\nVer > Pando Departamento:PandoDirección:ZONA 11 DE OCTUBRE, CALLE ALFONSO FERNANDEZ ZUMARA ENTRE AV. 9 DE FEBRERO\nTeléfono:800 101 102\nHorario de atención:\n   Hora Inicio:07:00 \n   Hora Fin:16:00\nVer > La Paz Departamento:La PazDirección:AV. BLANCO GALINDO KM 6 1/2; 3 CUADRAS AL NORTE TRAS BALNEARIO MARINA DEL REY (AV. PANTALEON DALENCE\nTeléfono:800 101 102\nHorario de atención:\n   Hora Inicio:07:00 \n   Hora Fin:16:00\nVer > La Paz Departamento:La PazDirección:CALLE ALEJANDRO TARTAWOSKI ENTRE AV. DEHENE ZONA SUD FRENTE A LA FACULTAD DE AGRONOMIA\nTeléfono:800 101 102\nHorario de atención:\n   Hora Inicio:07:00 \n   Hora Fin:16:00\nVerCargando..."
+  },
+  {
+    "role": "user",
+    "content": "Más información"
+  },
+  {
+    "role": "assistant",
+    "content": "Marco Legal:Ley N° 145 Código de Transito\nReglamento Código de Transito\nManual de Procesos y Procedimientos – Técnico Operativos para Licencias de Conducir\nResolución Administrativa SEGIP/DGE/N° 15/2012\nResolución Administrativa SEGIP/DGE/N° 041/2012\nResolución Administrativa SEGIP/DGE/N° 200/2016\n\nÚltimaactualización de la Información:\n\n25/04/2023 09:58"
+  },
+  {
+    "role": "user",
+    "content": "Costo del Trámite"
+  },
+  {
+    "role": "assistant",
+    "content": "Concepto de pago:\nCategoría M y T\nForma de pago:\nDEPOSITO\nN° Cuenta Bancaria (Banco Unión):\nNo hay número de cuenta\nMonto:\n80 BS\nConcepto de pago:\nCategoría P y A\nForma de pago:\nDEPOSITO\nN° Cuenta Bancaria (Banco Unión):\nNo hay número de cuenta\nMonto:\n225 BS"
+  }
+]
