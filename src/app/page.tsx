@@ -1,6 +1,7 @@
-import { Message } from 'ai'
+import Message from '@/components/Message'
+import { Message as Msg } from 'ai'
 
-const messages: Message[] = [
+const messages: Msg[] = [
   { id: '1', role: 'user', content: 'Que necesito' },
   {
     id: '1',
@@ -57,18 +58,19 @@ const messages: Message[] = [
 export default function Home() {
   return (
     <div className='w-full max-w-5xl mx-auto mt-8 pb-28'>
-      <section className='flex flex-col gap-7'>
+      <section className='flex flex-col gap-7 bg-inherit ml-a p-4 rounded-xl'>
         {messages.map(({ id, role, content }) => (
-          <article
-            key={id}
-            className={`w-fit max-w-[calc(100%-256px)] p-2 rounded-xl shadow ${
-              role === 'user'
-                ? 'bg-gradient-to-r from-cyan-500 to-blue-500 ml-auto'
-                : 'border border-gray-600'
-            }`}
-          >
-            {content}
-          </article>
+          // <article
+          //   key={id}
+          //   className={`w-fit max-w-[calc(100%-256px)] p-2 rounded-xl shadow ${
+          //     role === 'user'
+          //       ? 'bg-gradient-to-r from-zinc-800  to-purple-950 ml-auto text-white'
+          //       : 'text-white bg-zinc-800'
+          //   }`}
+          // >
+          //   {content}
+          // </article>
+          <Message key={id} role={role} content={content} />
         ))}
       </section>
     </div>
