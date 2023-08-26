@@ -2,10 +2,10 @@
 
 import { Footer } from '@/components/Footer'
 import Message from '@/components/Message'
-import { useChat } from 'ai/react'
+import useMessages from '@/hooks/useMessages'
 
 export default function Home() {
-  const { messages, input, handleInputChange, handleSubmit } = useChat()
+  const { messages, input, handleInputChange, handleSubmit } = useMessages()
 
   return (
     <>

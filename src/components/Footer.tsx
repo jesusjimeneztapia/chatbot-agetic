@@ -20,7 +20,7 @@ const Footer: FC<Props> = ({ input, handleInputChange, handleSubmit }) => {
         onSubmit={handleSubmit}
       >
         <input
-          className='py-2 pl-4 pr-10 md:py-3 md:pl-5 md:pr-12 lg:pl-6 border border-purple-200 w-full rounded-xl focus:outline-purple-500'
+          className='py-2 pl-4 pr-10 md:py-3 md:pl-5 md:pr-12 lg:pl-6 hover:bg-zinc-700 text-white bg-zinc-600 border border-purple-200 w-full rounded-xl focus:outline-purple-100'
           placeholder='Envía un mensaje'
           value={input}
           onChange={handleInputChange}
@@ -29,7 +29,7 @@ const Footer: FC<Props> = ({ input, handleInputChange, handleSubmit }) => {
           className='absolute right-6 md:right-9 lg:right-12 top-1/2 -translate-y-1/2 w-auto'
           type='submit'
         >
-          <SendIcon className='w-5 md:w-6 text-purple-950' />
+          <SendIcon className='w-5 md:w-6 text-purple-200' />
         </button>
       </form>
     </footer>
