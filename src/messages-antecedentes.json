@@ -1,0 +1,42 @@
+[
+    {
+        "role": "user", 
+        "content": "¿Qué necesito para el tramite de Certificado de Antecedentes Policiales de alguna de las instituciones: FELCC, FELCN, TRANSITO, DIPROVE ó FELCV?"
+    },
+    {
+        "role": "assistant", 
+        "content": "El costo por el Certificado de Antecedentes Policiales  es de Bs.- 75 más Bs.- 10 para las fotografías 1.     Depósito de Bs.- 75 a nombre del solicitante ala cuenta 14041070 en el Banco UniónS.A.2.     Depósito de Bs.- 10 a nombre del solicitante a la cuenta 14041070 en el Banco Unión S.A. para la fotografía3.     Fotocopia de los depósitos y presentar originales4.     Fotocopia de Cédula de Identidad"
+    },
+    {
+        "role": "user", 
+        "content": "¿Cómo y dónde hago el trámite?"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "1.     El solicitante realiza el depósito de Bs.- 75 por el Certificado, a nombre del solicitante a la Cta. 14041070 en el Banco Unión S.A.2.     El solicitante realiza el depósito de Bs.- 10 para la fotografía, a nombre del solicitante a la Cta. 14041070 en el Banco Unión S.A.3.      El solicitante se apersona a oficinas de la Dirección de Servicios Técnicos Auxiliares – Policía Boliviana y presenta en Ventanilla Informaciones los requisitos documentarios4.      El personal de Informaciones entrega al solicitante una ficha y espera su turno para la atención5.    Según en número de la ficha el solicitante es llamado a las Ventanillas de Atención al Público y presenta los requisitos documentarios6.      El encargado de Ventanilla de Atención al Público imprime el Certificado y pide al solicitante su firma7.      El solicitante previa revisión de la información en el Certificado procede a firmar y entrega otra vez al encargado de ésta misma ventanilla8.      El encargado de Ventanilla de Atención al Público firma y sella el Certificado y entrega al solicitante9.     El solicitante recoge el Certificado de Antecedentes Policiales: FELCC, FELCN, TRANSITO,  FELCV (según corresponda)10.    El solicitante al momento de recoger el Certificado de Antecedentes Policiales: FELCC, FELCN, TRANSITO, FELCV (según corresponda), debe solicitar el Apostillado de su Certificado en la misma ventanilla (opcional)."
+    },
+    {
+        "role": "user", 
+        "content": "Direcciones donde se realiza este trámite (Ciudad,Direccion,Telefono)"
+    },
+    {
+        "role": "assistant", 
+        "content": "La Paz, Av. Mariscal Santa Cruz Esquina Calle Cochabamba, 2371228; Cochabamba, Zona Villa Coronilla Calle Tilaca entre Mama Okllo, 4221509; Santa Cruz, 3er Anillo Av. Santos Dumon, 3552473; Oruro, Zona Velasco Calle Adolfo Mier y Calle Bolívar, 25255536; Potosí, Zona Las Delicias Calle Dramayo entre Calle Polioducto, 6243780; Sucre, Zona San Roque Distrito N° 1 Calle Junín entre Calle Capitán Echeverría y La Paz, 0164-6434463; Tarija, Zona Centro Av. Integración y Av. Panamericana, 6642372; Beni, Zona Pompea Calle Lazaro de Rivera entre Calle San Juan, 4620583; Pando, Zona Central Av. Miguel Becerra Tranzo entre Calle Cívica, 8423900"
+    },
+    {
+        "role": "user", 
+        "content": "Más información"
+    },
+    {
+        "role": "assistant", 
+        "content": "Duración: 1 hora.\n Marco Legal: Constitución Política del Estado (Art. 24)\n R.A. N° 0622 de 10 de diciembre de 2013\n Última actualización de la Información:  10/09/2019 12:18\n "
+    },
+    {
+        "role": "user", 
+        "content": "Costo del Trámite"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "Concepto de pago: Fotografía\n Forma de pago: DEPOSITO\n N° Cuenta Bancaria (Banco Unión): 14041070\n Monto: 10 BS\n Concepto de pago: Certificado de Antecedentes Policiales\n Forma de pago: DEPOSITO\n N° Cuenta Bancaria (Banco Unión): 14041070\n Monto: 75 BS\n "
+    }
+]
