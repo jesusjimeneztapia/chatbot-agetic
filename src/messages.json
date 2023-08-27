@@ -47,22 +47,6 @@
     "role": "assistant",
     "content": "DIRECCIÓN: CALLE LA PAZ ESQ. SANTA CRUZ N 299, HORARIOS DE ATENCIÓN: 07:00 am – 15:00 pm, SERVICIOS: CÉDULAS Y LICENCIAS"
   },
-  {
-    "role": "user",
-    "content": "Información de Segip en RIBERALTA, BENI"
-  },
-  {
-    "role": "assistant",
-    "content": "DIRECCIÓN: AV. MAXIMO HENIGKEN ENTRE CALLE NICOLAS ZUAREZ Y AV. DR., HORARIOS DE ATENCIÓN: 07:00 am – 15:00 pm, SERVICIOS: CÉDULAS Y LICENCIAS"
-  },
-  {
-    "role": "user",
-    "content": "Información de Segip en GUAYARAMERIN, BENI"
-  },
-  {
-    "role": "assistant",
-    "content": "DIRECCIÓN: CALLE WALTER LENZ ESQ. ANTONIO VACA DIEZ EX -AEROPUERTO EMILIO BELTRAN, HORARIOS DE ATENCIÓN: 07:00 am – 15:00 pm, SERVICIOS: CÉDULAS Y LICENCIAS"
-  },
 
   {
     "role": "user",
@@ -70,23 +54,7 @@
   },
   {
     "role": "assistant",
-    "content": "DIRECCIÓN: Av. Circunvalación y Final América este,SERVICIO : CÉDULAS DE IDENTIDAD, HORARIOS: 07:00 A 15:00"
-  },
-  {
-    "role": "user",
-    "content": "Información de Segip en CERCADO – OFICINA DEL SUR, COCHABAMBA"
-  },
-  {
-    "role": "assistant",
     "content": "DIRECCIÓN: AV. Final Panamericana – Z-Molle Molle (del colegio San Antonio 2 cuadras a mano izquierda y una cuadra hacia el norte), SERVICIO : CÉDULAS DE IDENTIDAD, HORARIOS: 07:00 A 15:00"
-  },
-  {
-    "role": "user",
-    "content": "Información de Segip en COLCAPIRHUA – OFICINA LICENCIAS Y EXTRANJERÍA, COCHABAMBA"
-  },
-  {
-    "role": "assistant",
-    "content": "DIRECCIÓN: Av. Blanco Galindo KM 6 1/2; 3 cuadras al norte tras balneario Marina del rey (Av. Pantaleon Dalence y Av. 27 de julio), SERVICIO : EXTRANJERÍA Y LICENCIAS DE CONDUCIR, HORARIOS: 07:00 A 15:00"
   },
   {
     "role": "user",
@@ -95,53 +63,5 @@
   {
     "role": "assistant",
     "content": "DIRECCIÓN: Calle Urkupiña esquina calle 10 Barrio Manaco., SERVICIO : CÉDULAS DE IDENTIDAD Y LICENCIAS DE CONDUCIR, HORARIOS: 07:00 A 15:00"
-  },
-  {
-    "role": "user",
-    "content": "Información de Segip en SACABA, COCHABAMBA"
-  },
-  {
-    "role": "assistant",
-    "content": "DIRECCIÓN: Barrio Mira Flores, Calle Incachaca y av. Gualberto Villarroel, SERVICIO : CÉDULAS DE IDENTIDAD Y LICENCIAS DE CONDUCIR, HORARIOS: 07:00 A 15:00"
-  },
-  {
-    "role": "user",
-    "content": "Información de Segip en PUNATA, COCHABAMBA"
-  },
-  {
-    "role": "assistant",
-    "content": "DIRECCIÓN: Calle Teniente Lucio Canedo (mercado nuevo Evo Morales), SERVICIO : CÉDULAS DE IDENTIDAD Y LICENCIAS DE CONDUCIR, HORARIOS: 07:00 A 15:00"
-  },
-  {
-    "role": "user",
-    "content": "Información de Segip en AIQUILE, COCHABAMBA"
-  },
-  {
-    "role": "assistant",
-    "content": "DIRECCIÓN: Calle Héroes del chaco esq. Loa Zona Central B, manzano 016., SERVICIO : CÉDULAS DE IDENTIDAD Y LICENCIAS DE CONDUCIR, HORARIOS: 07:00 A 15:00"
-  },
-  {
-    "role": "user",
-    "content": "Información de Segip en CHIMORE, COCHABAMBA"
-  },
-  {
-    "role": "assistant",
-    "content": "DIRECCIÓN: Av. Abecedario y Av. Pinos lado oficina ELFEC., SERVICIO : CÉDULAS DE IDENTIDAD Y LICENCIAS DE CONDUCIR, HORARIOS: 07:00 A 15:00"
-  },
-  {
-    "role": "user",
-    "content": "Información de Segip en OFICINA SEMIPERMANENTE – CLIZA, COCHABAMBA"
-  },
-  {
-    "role": "assistant",
-    "content": "DIRECCIÓN: Plaza Principal de CLIZA, en los ambientes de la Alcaldía Municipal, SERVICIO : CÉDULAS DE IDENTIDAD Y LICENCIAS DE CONDUCIR, HORARIOS: 07:00 A 15:00"
-  },
-  {
-    "role": "user",
-    "content": "Información de Segip en OFICINA SEMIPERMANENTE – VILLA TUNARI, COCHABAMBA"
-  },
-  {
-    "role": "assistant",
-    "content": "DIRECCIÓN: Federación del Trópico – VILLA TUNARI., SERVICIO : CÉDULAS DE IDENTIDAD Y LICENCIAS DE CONDUCIR, HORARIOS: 07:00 A 15:00"
   }
 ]
