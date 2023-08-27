@@ -5,7 +5,8 @@ import Message from '@/components/Message'
 import useMessages from '@/hooks/useMessages'
 
 export default function Home() {
-  const { messages, input, handleInputChange, handleSubmit } = useMessages()
+  const { messages, input, isLoading, handleInputChange, handleSubmit } =
+    useMessages()
 
   return (
     <>
@@ -18,6 +19,7 @@ export default function Home() {
       </main>
       <Footer
         input={input}
+        isLoading={isLoading}
         handleInputChange={handleInputChange}
         handleSubmit={handleSubmit}
       />
